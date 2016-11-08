@@ -178,7 +178,7 @@ outline: 2px solid gainsboro; */
 
 .styled-select {
   display: inline-block;
-  background: url('https://github.com/aasten/epam-frontend-task2/raw/master/dropdownarrow.png') no-repeat white;
+  background: url('http://github.com/aasten/epam-frontend-task2/raw/master/dropdownarrow.png') no-repeat white;
   background-position: 97% 50%;
   background-size: 1rem 1rem;
 }
